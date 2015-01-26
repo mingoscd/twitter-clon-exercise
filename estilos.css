@@ -1,0 +1,97 @@
+.navbar-nav li{
+	padding:10px; 
+	font-size: 14px; 
+	font-weight: bold;
+}
+.navbar-nav li .glyphicon{
+	font-size:18px;
+	margin: 3px 8px;
+	vertical-align: -2px;
+}.navbar{
+	margin-bottom: 0;
+}
+.header-list{
+	padding-left:10%;
+}
+.header-form-search{
+	padding-top: 10px;
+	width: 200px; 
+	display: inline-block;
+}
+.bg-image{
+	width: 100%; 
+	height: 420px;
+}
+.content-info-list li{
+	width: 100px;
+	text-align: center;
+	color:#5BC0DE;
+}
+.follow-layer a{
+	font-size: 20px;
+	margin: 8px;
+	vertical-align: middle;
+}
+.content-left-aside{
+	position:absolute; 
+	top:360px;
+	left:250px;
+}
+.avatar{
+	width:220px;
+	height: 220px;
+	border-radius: 20px; 
+	border: 8px solid white;
+}
+.followers-div{
+	margin-top: 20px
+}
+.followers-div ul li img{
+	margin:8px 10px;
+	border-radius: 10px; 
+	height: 60px; 
+	width: 60px;
+}
+.tweets-content, .who-follow{
+	border:1px solid #E1E8ED;
+	margin-top: 20px;
+	border-radius: 10px;
+	padding:0;
+}
+.tweets-table-header{
+	padding-left: 10%;
+	border-bottom: 1px solid #E1E8ED;
+}
+.tweets-table-header ul li{
+	padding: 15px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.tweet .media{
+	border-bottom: 1px solid #E1E8ED;
+	padding: 10px;
+}
+.tweet .media .media-object{
+	padding: 10px;
+	height: 70px;
+	width:70px;
+	border-radius: 15px;
+}
+.tweet .media .media-body h4{
+	display: inline-block;
+	margin: 5px 10px;
+}
+.tweet .media .media-body p{
+	font-size: 18px;
+	padding-left: 10px;
+}
+
+.who-follow{
+	padding:10px;
+}
+.who-follow .media-object{
+	height: 70px;
+	width: 70px;
+	margin: 15px 0;
+}
